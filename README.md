@@ -34,26 +34,26 @@ A modern **E-Commerce** web application built with **Laravel 12**, **React.js**,
 ```bash
 git clone https://github.com/danish-manzoor/ecommerce-store.git
 cd ecommerce-store
-bash```
+
 
 2. Install PHP dependencies:
-```bash
+
 composer install
 
 3. Install Node dependencies:
 
-```bash
+
 npm install
 npm run dev
 
 4. Copy .env file and generate app key:
-```bash
+
 cp .env.example .env
 php artisan key:generate
 
 5. Configure database in .env:
 
-```bash
+
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
@@ -62,7 +62,7 @@ DB_USERNAME=your_username
 DB_PASSWORD=your_password
 
 6. Run migrations and seeders:
-```bash
+
 php artisan migrate --seed
 7. Serve the application:
 ```bash
