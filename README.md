@@ -34,6 +34,7 @@ A modern **E-Commerce** web application built with **Laravel 12**, **React.js**,
 ```bash
 git clone https://github.com/danish-manzoor/ecommerce-store.git
 cd ecommerce-store
+bash```
 
 2. Install PHP dependencies:
 ```bash
