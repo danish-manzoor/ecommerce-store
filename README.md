@@ -1,4 +1,4 @@
-# E-Commerce Store
+# Full-Stack eCommerce System with Modern Features
 
 A modern **E-Commerce** web application built with **Laravel 12**, **React.js**, and **Inertia.js**.
 
